@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Ayoub Benali Amjoud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Feb 2019 21:34:34 +0100</lastBuildDate>
     
 	<atom:link href="https://benyob.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Selective Search</title>
+      <link>https://benyob.github.io/blog/selective-search/</link>
+      <pubDate>Mon, 04 Feb 2019 21:34:34 +0100</pubDate>
+      
+      <guid>https://benyob.github.io/blog/selective-search/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Collaborative Filtering and Recommender Systems</title>
