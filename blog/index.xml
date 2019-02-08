@@ -17,7 +17,9 @@
       <pubDate>Mon, 04 Feb 2019 21:34:34 +0100</pubDate>
       
       <guid>https://benyob.github.io/blog/selective-search/</guid>
-      <description></description>
+      <description>What is selective research?
+Selective search is a region proposal algorithm used in object detection that blends both the strength of exhaustive search and segmentation. It is intended to be fast with a very high recall. It is based on hierarchical segmentation, starting with small super pixels and merging according to color, texture, size and shape compatibility.
+How selective search works</description>
     </item>
     
     <item>
