@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ayoub Benali Amjoud</title>
+    <link>https://benyob.github.io/</link>
+    <description>Recent content on Ayoub Benali Amjoud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://benyob.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Selective Search Algorithm For Object Detection Explained</title>
+      <link>https://benyob.github.io/blog/selective-search-algorithm-for-object-detection-explained/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://benyob.github.io/blog/selective-search-algorithm-for-object-detection-explained/</guid>
+      <description>What is selective search? Selective search is a region proposal algorithm used in object detection that blends both the strength of exhaustive search and segmentation. It is intended to be fast with a very high recall. It is based on hierarchical segmentation, starting with small super pixels and merging according to color, texture, size and shape compatibility.
+How selective search works ? The selective search begins by over-segmenting the image according to pixel intensity using a graph-segmentation method developed by Felzenszwalb and Huttenlocher.</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Filtering and Recommender Systems</title>
+      <link>https://benyob.github.io/blog/collaborative-filtering-and-recommender-systems/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://benyob.github.io/blog/collaborative-filtering-and-recommender-systems/</guid>
+      <description>Recommendation systems recommend items such as products or services to users. This is usually done on the basis of evaluations (collaborative filter) or of item properties (content-based filter).
+The basic idea of a recommendation system is to recommend products such as books, services or places of interest or other so-called items to an active user. Based on information about the user, the items and, if necessary, other data, it is determined to what extent an item corresponds to the user&amp;rsquo;s taste.</description>
+    </item>
+    
+    <item>
+      <title>A small project example : add yours !</title>
+      <link>https://benyob.github.io/projects/small-project/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://benyob.github.io/projects/small-project/</guid>
+      <description>Along with Ford Prefect, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a hyperspace bypass. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.
+ He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.
+ In time, he learns how to fly and carves a niche for himself as a sandwich-maker.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://benyob.github.io/about/</link>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://benyob.github.io/about/</guid>
+      <description>With this theme, it is possible to add small sections that only contains one page like this. It will automatically appears in the header, at the end.
+Along with Ford Prefect, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a hyperspace bypass. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://benyob.github.io/projects/projects/</link>
+      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
+      
+      <guid>https://benyob.github.io/projects/projects/</guid>
+      <description>In this theme, it is possible to add sections like a Projects one for example. You can add plenty of articles about your projects and a presentation page that will be displayed before the list. All is modulable, if you don&amp;rsquo;t want something.
+A Hollywood-funded film version, produced and filmed in the UK, was released in April 2005, and radio adaptations of the third, fourth, and fifth novels were broadcast from 2004 to 2005.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://benyob.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benyob.github.io/home/</guid>
+      <description>Welcome to my little corner of the ‘net!</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://benyob.github.io/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benyob.github.io/license/</guid>
+      <description>You can use this page to put a license on the contents of your blog, like so:
+ The MIT License (MIT)
+Copyright &amp;copy; 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+  </channel>
+</rss>

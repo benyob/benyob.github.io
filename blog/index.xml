@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Ayoub Benali Amjoud</title>
+    <link>https://benyob.github.io/blog/</link>
+    <description>Recent content in Blog on Ayoub Benali Amjoud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://benyob.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Selective Search Algorithm For Object Detection Explained</title>
+      <link>https://benyob.github.io/blog/selective-search-algorithm-for-object-detection-explained/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://benyob.github.io/blog/selective-search-algorithm-for-object-detection-explained/</guid>
+      <description>What is selective search? Selective search is a region proposal algorithm used in object detection that blends both the strength of exhaustive search and segmentation. It is intended to be fast with a very high recall. It is based on hierarchical segmentation, starting with small super pixels and merging according to color, texture, size and shape compatibility.
+How selective search works ? The selective search begins by over-segmenting the image according to pixel intensity using a graph-segmentation method developed by Felzenszwalb and Huttenlocher.</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Filtering and Recommender Systems</title>
+      <link>https://benyob.github.io/blog/collaborative-filtering-and-recommender-systems/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://benyob.github.io/blog/collaborative-filtering-and-recommender-systems/</guid>
+      <description>Recommendation systems recommend items such as products or services to users. This is usually done on the basis of evaluations (collaborative filter) or of item properties (content-based filter).
+The basic idea of a recommendation system is to recommend products such as books, services or places of interest or other so-called items to an active user. Based on information about the user, the items and, if necessary, other data, it is determined to what extent an item corresponds to the user&amp;rsquo;s taste.</description>
+    </item>
+    
+  </channel>
+</rss>
