@@ -6,12 +6,17 @@
     <description>Recent content on Ayoub Benali Amjoud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Mon, 04 Feb 2019 21:34:34 +0100</lastBuildDate>
+>>>>>>> eb2e3516a4fc52c9688a3405d80572aaecc1e511
     
 	<atom:link href="https://benyob.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>Selective Search Algorithm For Object Detection Explained</title>
       <link>https://benyob.github.io/blog/selective-search-algorithm-for-object-detection-explained/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
@@ -19,6 +24,16 @@
       <guid>https://benyob.github.io/blog/selective-search-algorithm-for-object-detection-explained/</guid>
       <description>What is selective search? Selective search is a region proposal algorithm used in object detection that blends both the strength of exhaustive search and segmentation. It is intended to be fast with a very high recall. It is based on hierarchical segmentation, starting with small super pixels and merging according to color, texture, size and shape compatibility.
 How selective search works ? The selective search begins by over-segmenting the image according to pixel intensity using a graph-segmentation method developed by Felzenszwalb and Huttenlocher.</description>
+=======
+      <title>Selective Search</title>
+      <link>https://benyob.github.io/blog/selective-search/</link>
+      <pubDate>Mon, 04 Feb 2019 21:34:34 +0100</pubDate>
+      
+      <guid>https://benyob.github.io/blog/selective-search/</guid>
+      <description>What is selective research?
+Selective search is a region proposal algorithm used in object detection that blends both the strength of exhaustive search and segmentation. It is intended to be fast with a very high recall. It is based on hierarchical segmentation, starting with small super pixels and merging according to color, texture, size and shape compatibility.
+How selective search works</description>
+>>>>>>> eb2e3516a4fc52c9688a3405d80572aaecc1e511
     </item>
     
     <item>

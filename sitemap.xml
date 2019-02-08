@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>https://benyob.github.io/blog/selective-search-algorithm-for-object-detection-explained/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+=======
+    <loc>https://benyob.github.io/blog/selective-search/</loc>
+    <lastmod>2019-02-04T21:34:34+01:00</lastmod>
+>>>>>>> eb2e3516a4fc52c9688a3405d80572aaecc1e511
   </url>
   
   <url>
@@ -29,13 +34,21 @@
   
   <url>
     <loc>https://benyob.github.io/</loc>
+<<<<<<< HEAD
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+=======
+    <lastmod>2019-02-04T21:34:34+01:00</lastmod>
+>>>>>>> eb2e3516a4fc52c9688a3405d80572aaecc1e511
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://benyob.github.io/blog/</loc>
+<<<<<<< HEAD
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+=======
+    <lastmod>2019-02-04T21:34:34+01:00</lastmod>
+>>>>>>> eb2e3516a4fc52c9688a3405d80572aaecc1e511
     <priority>0</priority>
   </url>
   
